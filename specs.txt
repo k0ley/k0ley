@@ -1,1 +1,7 @@
+GPU: EVGA RTX 2060
+CPU: 3600x
+RAM: 2 x 8
+MOBO: MSI Tomahawk Max
+500GB SSD
+2TB HDD
 
