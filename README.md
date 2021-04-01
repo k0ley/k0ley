@@ -21,7 +21,7 @@
 <a href="https://twitter.com/legitneth">Twitter</a>
 </p>
 
-You have stumbled across my GitHub! My name is Sam Eigen. I graduated college with a degree in Political Economy and Computer Science in May of 2020!
+You have stumbled across my GitHub! My name is Sam Eigen. I graduated from Tulane University with a double major in Political Economy and Computer Science in May of 2020!
 Ever since then (COVID!) I've been stuck in my room going nuts! How nuts you may ask?
 </div>
 
