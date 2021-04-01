@@ -1,5 +1,5 @@
 <div align="center">
-<img height="160" src="./ryuko-blink.gif" alt="a king"></img>
+<img src="./elliot.gif" alt="a king"></img>
 
 <p align="center">
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -23,6 +23,7 @@
 
 You have stumbled across my GitHub! My name is Sam Eigen. I graduated college with a degree in Political Economy and Computer Science in May of 2020!
 Ever since then (COVID!) I've been stuck in my room going nuts! How nuts you may ask?
+</div>
 
 In the span of this past year, I have:
 <ul>
@@ -32,4 +33,4 @@ In the span of this past year, I have:
   <li>Deployed Flask API using AWS Lambda into S3, DynamoDB, and RDS</li>
   <li>Happily joined the PC Master Race. Building a PC is the way to go! SEE SPECS: {}</li>
 </ul>
-</div>
+
