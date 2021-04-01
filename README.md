@@ -27,7 +27,7 @@ Ever since then (COVID!) I've been stuck in my room going nuts! How nuts you may
 
 In the span of this past year, I have:
 <ul>
-  <li>Learned how to develop, deploy, and manage my full-stack iOS application w/ a super fun and collaborative AGILE team</li>
+  <li>Learned how to develop, deploy, and manage a full-stack iOS application w/ a super fun and collaborative AGILE team</li>
   <li>Became one of those annoying Vim people (sorry VSCode)</li>
   <li>Received all certifications in a major SIEM - shoutout Sumo Logic!</li>
   <li>Happily joined the PC Master Race. Building a PC is the way to go: <a href="https://raw.githubusercontent.com/k0ley/k0ley/main/specs.txt">specs (if u care)</a></li>
