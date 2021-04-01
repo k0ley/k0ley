@@ -30,7 +30,7 @@ In the span of this past year, I have:
   <li>Learned how to develop, deploy, and manage my full-stack iOS application w/ a super fun and collaborative AGILE team</li>
   <li>Became one of those annoying Vim people (sorry VSCode)</li>
   <li>Received all certifications in a major SIEM - shoutout Sumo Logic!</li>
-  <li>Happily joined the PC Master Race. Building a PC is the way to go!<small><a href="https://github.com/k0ley/k0ley/specs.txt">specs if u care</a></small></li>
+  <li>Happily joined the PC Master Race. Building a PC is the way to go!<a href="https://github.com/k0ley/k0ley/specs.txt"><small>specs if u care</small></a></li>
   <li>Deployed a Flask REST API using AWS Lambda into S3, DynamoDB, RDS, SES, etc.</li>
   <li>Somehow became a crypto guy. Not really sure when/why this happened, but we're rolling with it. <small>s/o environmentally friendly blockchain tech</small></li>
 
