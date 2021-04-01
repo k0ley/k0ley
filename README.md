@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/samuel-eigen/">You made it to my LinkedIn?</a>
 •
-<a href="https://github.com/k0ley/dotfiles">. files</a>
+<a href="https://github.com/k0ley/dotfiles">dotfiles</a>
 •
 <a href="">Cybersec stuff</a>
 •
