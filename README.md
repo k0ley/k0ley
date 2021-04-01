@@ -33,11 +33,11 @@ In the span of this past year, I have:
   <li>Happily joined the PC Master Race. Building a PC is the way to go: <a href="https://github.com/k0ley/k0ley/specs.txt">specs (if u care)</a></li>
   <li>Deployed a Flask REST API using AWS Lambda into S3, DynamoDB, RDS, SES, etc.</li>
   <li>Somehow became a crypto guy. Not really sure when/why this happened, but we're rolling with it.</li>
-    
+</ul> 
 (s/o environmentally friendly blockchain tech)
 
 I'm always down for a project - feel free to reach out on Twitter or Email.
 
 Sam Eigen / shmuel / k0ley
-</ul>
+
 
