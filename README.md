@@ -32,7 +32,6 @@ In the span of this past year, I have:
   <li>Received all certifications in a major SIEM - shoutout Sumo Logic!</li>
   <li>Happily joined the PC Master Race. Building a PC is the way to go: <a href="https://raw.githubusercontent.com/sameigen/sameigen/main/specs.txt">specs (if u care)</a></li>
   <li>Deployed a Flask REST API using AWS Lambda into S3, DynamoDB, RDS, SES, etc.</li>
-  <li>Somehow became a crypto guy. Not really sure when/why this happened, but we're rolling with it.</li>
 </ul> 
 (s/o environmentally friendly blockchain tech)
 
