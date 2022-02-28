@@ -12,13 +12,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/samuel-eigen/">You made it to my LinkedIn?</a>
 •
-<a href="https://github.com/k0ley/dotfiles">dotfiles</a>
+<a href="https://github.com/sameigen/dotfiles">dotfiles</a>
 •
 <a href="">Cybersec stuff</a>
 •
 <a href="mailto:seigen@tulane.edu">Email</a>
 •
-<a href="https://twitter.com/legitneth">Twitter</a>
+<a href="https://twitter.com/eigen_sh">Twitter</a>
 </p>
 
 You have stumbled across my GitHub! My name is Sam Eigen. I graduated from Tulane University with a double major in Political Economy and Computer Science in May of 2020!
@@ -30,7 +30,7 @@ In the span of this past year, I have:
   <li>Learned how to develop, deploy, and manage a full-stack iOS application w/ a super fun and collaborative AGILE team</li>
   <li>Became one of those annoying Vim people (sorry VSCode)</li>
   <li>Received all certifications in a major SIEM - shoutout Sumo Logic!</li>
-  <li>Happily joined the PC Master Race. Building a PC is the way to go: <a href="https://raw.githubusercontent.com/k0ley/k0ley/main/specs.txt">specs (if u care)</a></li>
+  <li>Happily joined the PC Master Race. Building a PC is the way to go: <a href="https://raw.githubusercontent.com/sameigen/sameigen/main/specs.txt">specs (if u care)</a></li>
   <li>Deployed a Flask REST API using AWS Lambda into S3, DynamoDB, RDS, SES, etc.</li>
   <li>Somehow became a crypto guy. Not really sure when/why this happened, but we're rolling with it.</li>
 </ul> 
@@ -39,6 +39,6 @@ In the span of this past year, I have:
 
 I'm always down for a project - feel free to reach out on Twitter or Email.
 
-Sam Eigen / shmuel / k0ley
+Sam Eigen
 
 
