@@ -14,30 +14,13 @@
 •
 <a href="https://github.com/sameigen/dotfiles">dotfiles</a>
 •
-<a href="">Cybersec stuff</a>
-•
-<a href="mailto:seigen@tulane.edu">Email</a>
-•
-<a href="https://twitter.com/eigen_sh">Twitter</a>
+<a href="mailto:sam@eigen.sh">Email</a>
 </p>
 
-You have stumbled across my GitHub! My name is Sam Eigen. I graduated from Tulane University with a double major in Political Economy and Computer Science in May of 2020!
-Ever since then (COVID!) I've been stuck in my room going nuts! How nuts you may ask?
-</div>
+Hey folks - my name is Sam. I reverse engineer malware, nuke code (in a not-good way), and sometimes finish a side project.
 
-In the span of this past year, I have:
-<ul>
-  <li>Learned how to develop, deploy, and manage a full-stack iOS application w/ a super fun and collaborative AGILE team</li>
-  <li>Became one of those annoying Vim people (sorry VSCode)</li>
-  <li>Received all certifications in a major SIEM - shoutout Sumo Logic!</li>
-  <li>Happily joined the PC Master Race. Building a PC is the way to go: <a href="https://raw.githubusercontent.com/sameigen/sameigen/main/specs.txt">specs (if u care)</a></li>
-  <li>Deployed a Flask REST API using AWS Lambda into S3, DynamoDB, RDS, SES, etc.</li>
-</ul> 
-(s/o environmentally friendly blockchain tech)
+You can certainly learn more about what I'm up to on https://eigen.sh
 
-
-I'm always down for a project - feel free to reach out on Twitter or Email.
-
-Sam Eigen
+I'm honestly more active on a GH account with an anime avatar and no references to my personal existence (something something privacy). Find it and I'll be way more inclined to work on a side project with you <3 
 
 
