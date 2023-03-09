@@ -21,6 +21,5 @@ Hey folks - my name is Sam. I reverse engineer malware, nuke code (in a not-good
 
 You can certainly learn more about what I'm up to on https://eigen.sh
 
-I'm honestly more active on a GH account with an anime avatar and no references to my personal existence (something something privacy). Find it and I'll be way more inclined to work on a side project with you <3 
-
+I'm honestly more active on a GH account with no references to my personal existence (something something privacy). Find it and impress me with your OSINT knowledge :D 
 
