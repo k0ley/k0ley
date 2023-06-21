@@ -10,16 +10,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samuel-eigen/">You made it to my LinkedIn?</a>
-•
-<a href="https://github.com/sameigen/dotfiles">dotfiles</a>
+<a href="https://www.linkedin.com/in/samuel-eigen/">LinkedIn</a>
 •
 <a href="mailto:sam@eigen.sh">Email</a>
 </p>
 
-Hey folks - my name is Sam. I reverse engineer malware, nuke code (in a not-good way), and sometimes finish a side project.
+Hey folks - my name is Sam. I reverse engineer malware, nuke code (in a not-good way), and sometimes finish a side project. I'm currently working at @GetLoper!
 
 You can certainly learn more about what I'm up to on https://eigen.sh
-
-I'm honestly more active on a GH account with no references to my personal existence (something something privacy). Find it and impress me with your OSINT knowledge :D 
-
